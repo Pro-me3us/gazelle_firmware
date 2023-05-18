@@ -3,7 +3,7 @@ Official Amazon download links for <a href="#full-firmware-update">full</a> and 
 
 
 For other FireTV device firmware visit the following:<br>
-<a href="https://github.com/Pro-me3us/raven_firmware">2nd gen Cubek</a> (raven - 2019)<br>
+<a href="https://github.com/Pro-me3us/raven_firmware">2nd gen Cube</a> (raven - 2019)<br>
 
 <a href="https://forum.xda-developers.com/t/fire-tv-stick-4k-max-kara-firmware-7-2-8-5-diff.4428871/">4K Max Stick</a> (kara - 2021)<br>
 <a href="https://forum.xda-developers.com/t/fire-tv-stick-lite-3-sheldon-p-firmware.4413597/">3rd gen Stick</a> (sheldon/p - 2020)<br>
@@ -43,23 +43,22 @@ FireTVCubeGen3-7.6.1.3-20230202.tar.bz2 = FireTVCubeGen3-7.6.0.7-20230119.tar.bz
 FireOS apps are mostly identical between FireTV models, below are only apps unique to the 3rd gen Cube.  For all other apps see the <a href="https://github.com/Pro-me3us/raven_firmware#stock-apps">common apps list</a> on the 2nd gen Cube firmware page.
 
 **Confirmed identical with 2nd gen Cube**
-com.amazon.aria                   | Aria
-com.amazon.avod                   | FireTV Player
-com.amazon.bueller.music          | Amazon Music
-com.amazon.cardinal               | Alexa Video Player
-com.amazon.ceviche                | Ceviche
-com.amazon.cloud9                 | Silk
-com.amazon.firebat                | Prime Video
-com.amazon.ftv.screensaver        | FireTV Screensaver
-com.amazon.gamehub                | Amazon Game Center
-com.amazon.hedwig                 | News
-com.amazon.imdb.tv.android.app    | Freevee
-com.amazon.kso.blackbird          | KSO Blackbird
-com.amazon.shoptv.client          | Shop TV Client
-com.amazon.shoptv.firetv.client   | Amazon Live Shopping
-com.amazon.ssmsys                 | System Status Monitor
-com.amazon.tv.csapp               | Settings Help Menu
-com.amazon.tv.turnstile           | FireTV Remote
-com.amazon.venezia                | Amazon App Store
-com.amazon.webview.chromium       | Webview
-
+com.amazon.aria                   | Aria<br>
+com.amazon.avod                   | FireTV Player<br>
+com.amazon.bueller.music          | Amazon Music<br>
+com.amazon.cardinal               | Alexa Video Player<br>
+com.amazon.ceviche                | Ceviche<br>
+com.amazon.cloud9                 | Silk<br>
+com.amazon.firebat                | Prime Video<br>
+com.amazon.ftv.screensaver        | FireTV Screensaver<br>
+com.amazon.gamehub                | Amazon Game Center<br>
+com.amazon.hedwig                 | News<br>
+com.amazon.imdb.tv.android.app    | Freevee<br>
+com.amazon.kso.blackbird          | KSO Blackbird<br>
+com.amazon.shoptv.client          | Shop TV Client<br>
+com.amazon.shoptv.firetv.client   | Amazon Live Shopping<br>
+com.amazon.ssmsys                 | System Status Monitor<br>
+com.amazon.tv.csapp               | Settings Help Menu<br>
+com.amazon.tv.turnstile           | FireTV Remote<br>
+com.amazon.venezia                | Amazon App Store<br>
+com.amazon.webview.chromium       | Webview<br>
