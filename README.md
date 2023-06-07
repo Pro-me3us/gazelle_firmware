@@ -16,6 +16,7 @@ For other FireTV device firmware visit the following:<br>
 | Date | Version | Download | Size | MD5 |
 |:----:|:-------:|:--------:|:----:|:---:|
 | 2023-02-09 | FireOS 7.6.1.3 (PS7613/3701) | [update-kindle-gazelle-PS7613_user_3701_0025401652612.bin](https://d1s31zyz7dcc2d.cloudfront.net/b3dc079f5eac223fea9f8666e7be990d/update-kindle-gazelle-PS7613_user_3701_0025401652612.bin) | 908.3MB | ba22a775d46fd39f533a6684631b41ee |
+| 2023-05-23 | FireOS 7.6.4.6 (PS7646/3550) | [update-kindle-gazelle-PS7646_user_3550_0028085968516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ded5f6297c3a43e5b415a03e23e29527/update-kindle-gazelle-PS7646_user_3550_0028085968516.bin) | 879.7MB | 8fb2db5a46a7a09fc9f35dd393e693fe |
 
 
 ### Differential Firmware Update
@@ -26,7 +27,7 @@ For other FireTV device firmware visit the following:<br>
 | <sub>2022-11-29</sub> | <sub>FireOS 7.2.9.9 (PS7299/3052)</sub> | <sub>FireOS 7.6.1.3 (PS7613/3686)</sub> | <sub>[update-gazelle-diff-PS7299.3052N_3052_0024596180100-to-PS7613_user_3686_0025401648772.bin](https://d1s31zyz7dcc2d.cloudfront.net/3acac2048da70780dcd108c80ac8af8b/update-gazelle-diff-PS7299.3052N_3052_0024596180100-to-PS7613_user_3686_0025401648772.bin)</sub> | <sub>184.7MB</sub> | <sub>d522dc2b87d9e8309383e129e2efc859</sub> |
 | <sub>2022-12-14</sub> | <sub>FireOS 7.2.9.9 (PS7299/3052)</sub> | <sub>FireOS 7.6.1.3 (PS7613/3688)</sub> | <sub>[update-gazelle-diff-PS7299.3052N_3052_0024596180100-to-PS7613_user_3688_0025401649284.bin](https://d1s31zyz7dcc2d.cloudfront.net/e80a00f005b8ece2738b5600d9a5243b/update-gazelle-diff-PS7299.3052N_3052_0024596180100-to-PS7613_user_3688_0025401649284.bin)</sub> | <sub>184.7MB</sub> | <sub>85e1f896dd7b1a14b521c7506c529cd2</sub> |
 | <sub>2023-02-09</sub> | <sub>FireOS 7.2.9.9 (PS7299/3052)</sub> | <sub>FireOS 7.6.1.3 (PS7613/3701)</sub> | <sub>[update-gazelle-diff-PS7299.3052N_3052_0024596180100-to-PS7613_user_3701_0025401652612.bin](https://d1s31zyz7dcc2d.cloudfront.net/bc0f390f6d1963e61c0c52627511ff9e/update-gazelle-diff-PS7299.3052N_3052_0024596180100-to-PS7613_user_3701_0025401652612.bin)</sub> | <sub>186.3MB</sub> | <sub>597abbaec34cf048d25fdacef8c77978</sub> |
-
+| <sub>2023-05-23</sub> | <sub>FireOS 7.6.1.3 (PS7613/3701)</sub> | <sub>FireOS 7.6.4.6 (PS7646/3550)</sub> | <sub>[update-gazelle-diff-PS7613.3701N_3701_0025401652612-to-PS7646_user_3550_0028085968516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/e87e843ed0443416b84927c37829746f/update-gazelle-diff-PS7613.3701N_3701_0025401652612-to-PS7646_user_3550_0028085968516.bin)</sub> | <sub>235.5MB</sub> | <sub>bcfcf2d3c80ca7028586fdea26e677e1</sub> |
 
 
 ### Source Code
