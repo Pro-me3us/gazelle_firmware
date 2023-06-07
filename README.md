@@ -15,6 +15,7 @@ For other FireTV device firmware visit the following:<br>
 ### Full Firmware Update
 | Date | Version | Download | Size | MD5 |
 |:----:|:-------:|:--------:|:----:|:---:|
+| 2022-08-16 | FireOS 7.2.9.9 (PS7299/3052) | Unofficial eMMC  dump: <br>[gazelle-PS7299.3052.zip](https://mega.nz/file/g2cjDRzJ#l5Yt8_PFOJ_aMaiaKFs9MTVlQg-1ULJRF3-7kVBALtI) | 976.4MB | 916f7f5484b4b0443b73cd9d6b67c1be |
 | 2023-02-09 | FireOS 7.6.1.3 (PS7613/3701) | [update-kindle-gazelle-PS7613_user_3701_0025401652612.bin](https://d1s31zyz7dcc2d.cloudfront.net/b3dc079f5eac223fea9f8666e7be990d/update-kindle-gazelle-PS7613_user_3701_0025401652612.bin) | 908.3MB | ba22a775d46fd39f533a6684631b41ee |
 | 2023-05-23 | FireOS 7.6.4.6 (PS7646/3550) | [update-kindle-gazelle-PS7646_user_3550_0028085968516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ded5f6297c3a43e5b415a03e23e29527/update-kindle-gazelle-PS7646_user_3550_0028085968516.bin) | 879.7MB | 8fb2db5a46a7a09fc9f35dd393e693fe |
 
@@ -43,7 +44,7 @@ FireTVCubeGen3-7.6.1.3-20230202.tar.bz2 = FireTVCubeGen3-7.6.0.7-20230119.tar.bz
 ### Stock apps
 FireOS apps are mostly identical between FireTV models, below are only apps unique to the 3rd gen Cube.  For all other apps see the <a href="https://github.com/Pro-me3us/raven_firmware#stock-apps">common apps list</a> on the 2nd gen Cube firmware page.
 
-**Confirmed identical with 2nd gen Cube**
+**Confirmed identical with 2nd gen Cube**<br>
 com.amazon.aria                   | Aria<br>
 com.amazon.avod                   | FireTV Player<br>
 com.amazon.bueller.music          | Amazon Music<br>
