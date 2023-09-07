@@ -19,7 +19,7 @@ For other FireTV device firmware visit the following:<br>
 | 2023-02-09 | FireOS 7.6.1.3 (PS7613/3701) | [update-kindle-gazelle-PS7613_user_3701_0025401652612.bin](https://d1s31zyz7dcc2d.cloudfront.net/b3dc079f5eac223fea9f8666e7be990d/update-kindle-gazelle-PS7613_user_3701_0025401652612.bin) | 908.3MB | ba22a775d46fd39f533a6684631b41ee |
 | 2023-05-23 | FireOS 7.6.4.6 (PS7646/3550) | [update-kindle-gazelle-PS7646_user_3550_0028085968516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/ded5f6297c3a43e5b415a03e23e29527/update-kindle-gazelle-PS7646_user_3550_0028085968516.bin) | 879.7MB | 8fb2db5a46a7a09fc9f35dd393e693fe |
 | 2023-08-26 | FireOS 7.6.4.6 (PS7646/3565) | [update-kindle-gazelle-PS7646_user_3565_0028085972356.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26ea8e7e046767da72b0e27901ae75c1/update-kindle-gazelle-PS7646_user_3565_0028085972356.bin) | 879.8MB | 2849b0e0d9a1955a5f0d0bf904c8b42f |
-| 2023-08-27 | FireOS 7.6.5.2 (PS7652/3564) | [update-kindle-gazelle-PS7652_user_3564_0028488625284.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/654ae6d5f6d9c317f56ff110ac8beb56/update-kindle-gazelle-PS7652_user_3564_0028488625284.bin) | 874.3MB | 41548a9005c34f54d884fefcf3b3352a |
+| 2023-08-26 | FireOS 7.6.5.2 (PS7652/3564) | [update-kindle-gazelle-PS7652_user_3564_0028488625284.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/654ae6d5f6d9c317f56ff110ac8beb56/update-kindle-gazelle-PS7652_user_3564_0028488625284.bin) | 874.3MB | 41548a9005c34f54d884fefcf3b3352a |
 
 
 ### Differential Firmware Update
