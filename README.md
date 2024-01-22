@@ -21,6 +21,7 @@ For other FireTV device firmware visit the following:<br>
 | 2023-08-26 | FireOS 7.6.4.6 (PS7646/3565) | [update-kindle-gazelle-PS7646_user_3565_0028085972356.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/26ea8e7e046767da72b0e27901ae75c1/update-kindle-gazelle-PS7646_user_3565_0028085972356.bin) | 879.8MB | 2849b0e0d9a1955a5f0d0bf904c8b42f |
 | 2023-08-26 | FireOS 7.6.5.2 (PS7652/3564) | [update-kindle-gazelle-PS7652_user_3564_0028488625284.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/654ae6d5f6d9c317f56ff110ac8beb56/update-kindle-gazelle-PS7652_user_3564_0028488625284.bin) | 874.3MB | 41548a9005c34f54d884fefcf3b3352a |
 | 2023-09-22 | FireOS 7.6.6.4 (PS7664/3772) | [update-kindle-gazelle-PS7664_user_3772_0029159767172.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/267a77329e0a9cff77ffdb54e79c34ac/update-kindle-gazelle-PS7664_user_3772_0029159767172.bin) | 877.7MB | 411bcda42496d261a60d2e9c91851bfe | 
+| 2023-12-26 | FireOS 7.6.6.8 (PS7668/3894) | [update-kindle-gazelle-PS7668_user_3894_0029562451588.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2023/12/27/d345bda0-a17e-4999-a74b-4e509012de48/update-kindle-gazelle-PS7668_user_3894_0029562451588.bin) | 888.0MB | 980abb5d345a0cef57e0da76a9bc08ee | 
 
 
 ### Differential Firmware Update
@@ -35,6 +36,8 @@ For other FireTV device firmware visit the following:<br>
 | <sub>2023-08-26</sub> | <sub>FireOS 7.6.4.6 (PS7646/3550)</sub> | <sub>FireOS 7.6.4.6 (PS7646/3565)</sub> | <sub>[update-gazelle-diff-PS7646.3550N_3550_0028085968516-to-PS7646_user_3565_0028085972356.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/074bee6ebf96eeba8bb7e494fd58ee7a/update-gazelle-diff-PS7646.3550N_3550_0028085968516-to-PS7646_user_3565_0028085972356.bin)</sub> | <sub>53.9MB</sub> | <sub>96c00c32efedd60e43f34eeda7db909b</sub> |
 | <sub>2023-08-26</sub> | <sub>FireOS 7.6.4.6 (PS7646/3565)</sub> | <sub>FireOS 7.6.5.2 (PS7652/3564)</sub> | <sub>[update-gazelle-diff-PS7646.3565N_3565_0028085972356-to-PS7652_user_3564_0028488625284.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/0411d20c67d405c5f426f9e6aa32d5f2/update-gazelle-diff-PS7646.3565N_3565_0028085972356-to-PS7652_user_3564_0028488625284.bin)</sub> | <sub>168.7MB</sub> | <sub>f317066a1a6d4d361596540b9160c3cf</sub> |
 | <sub>2023-09-22</sub> | <sub>FireOS 7.6.5.2 (PS7652/3564)</sub> | <sub>FireOS 7.6.6.4 (PS7664/3772)</sub> | <sub>[update-gazelle-diff-PS7652.3564N_3564_0028488625284-to-PS7664_user_3772_0029159767172.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/510e4a2ab099695834d9aa222e719e2a/update-gazelle-diff-PS7652.3564N_3564_0028488625284-to-PS7664_user_3772_0029159767172.bin)</sub> | <sub>164.7MB</sub> | <sub>d56f4d65d3015f8be81a0308961b4047</sub> |
+| <sub>2023-12-26</sub> | <sub>FireOS 7.6.6.4 (PS7664/3772)</sub> | <sub>FireOS 7.6.6.8 (PS7668/3894)</sub> | <sub>[update-gazelle-diff-PS7664.3772N_3772_0029159767172-to-PS7668_user_3894_0029562451588.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/b530b75373fcb4ece79ed841edd95ca1/update-gazelle-diff-PS7664.3772N_3772_0029159767172-to-PS7668_user_3894_0029562451588.bin)</sub> | <sub>185.8MB</sub> | <sub>f388bf3093631ae96a827e563c8b71f5</sub> |
+
 
 ### Source Code
 | Date | Version | Download | Size | MD5 |
@@ -50,22 +53,32 @@ FireTVCubeGen3-7.6.1.3-20230202.tar.bz2 = FireTVCubeGen3-7.6.0.7-20230119.tar.bz
 FireOS apps are mostly identical between FireTV models, below are only apps unique to the 3rd gen Cube.  For all other apps see the <a href="https://github.com/Pro-me3us/raven_firmware#stock-apps">common apps list</a> on the 2nd gen Cube firmware page.
 
 **Confirmed identical with 2nd gen Cube**<br>
-com.amazon.aria                   | Aria<br>
-com.amazon.avod                   | FireTV Player<br>
-com.amazon.bueller.music          | Amazon Music<br>
-com.amazon.cardinal               | Alexa Video Player<br>
-com.amazon.ceviche                | Ceviche<br>
-com.amazon.cloud9                 | Silk<br>
-com.amazon.firebat                | Prime Video<br>
-com.amazon.ftv.screensaver        | FireTV Screensaver<br>
-com.amazon.gamehub                | Amazon Game Center<br>
-com.amazon.hedwig                 | News<br>
-com.amazon.imdb.tv.android.app    | Freevee<br>
-com.amazon.kso.blackbird          | KSO Blackbird<br>
-com.amazon.shoptv.client          | Shop TV Client<br>
-com.amazon.shoptv.firetv.client   | Amazon Live Shopping<br>
-com.amazon.ssmsys                 | System Status Monitor<br>
-com.amazon.tv.csapp               | Settings Help Menu<br>
-com.amazon.tv.turnstile           | FireTV Remote<br>
-com.amazon.venezia                | Amazon App Store<br>
-com.amazon.webview.chromium       | Webview<br>
+com.amazon.aca                            | ACA FireTV Android Client<br>
+com.amazon.aiondec                        | AIOnDeCService<br>
+com.amazon.alexamediaplayer.runtime.ftv   | Alexa Media Player<br>
+com.amazon.aria                           | Aria<br>
+com.amazon.audiohome                      | Music & More<br>
+com.amazon.avod                           | FireTV Player<br>
+com.amazon.bueller.music                  | Amazon Music<br>
+com.amazon.cardinal                       | Alexa Video Player<br>
+com.amazon.ceviche                        | Ceviche<br>
+com.amazon.cloud9                         | Silk<br>
+com.amazon.device.lowstoragemanager       | Low Storage Manager<br>
+com.amazon.firebat                        | Prime Video<br>
+com.amazon.ftv.screensaver                | FireTV Screensaver<br>
+com.amazon.gamehub                        | Amazon Game Center<br>
+com.amazon.hedwig                         | News<br>
+com.amazon.imdb.tv.android.app            | Freevee<br>
+com.amazon.kso.blackbird                  | KSO Blackbird<br>
+com.amazon.minitv.android.app             | MiniTV<br>
+com.amazon.shoptv.client                  | Shop TV Client<br>
+com.amazon.shoptv.firetv.client           | Amazon Live Shopping<br>
+com.amazon.ssmsys                         | System Status Monitor<br>
+com.amazon.tv.csapp                       | Settings Help Menu<br>
+com.amazon.tv.devicecontrol               | Device Control<br>
+com.amazon.tv.launcher                    | KFTV Launcher (Amazon Launcher)<br>
+com.amazon.tv.oobe                        | OOBE (Out-of-Box-Experience)<br>
+com.amazon.tv.settings.v2                 | Settings Menu<br>
+com.amazon.tv.turnstile                   | FireTV Remote<br>
+com.amazon.venezia                        | Amazon App Store<br>
+com.amazon.webview.chromium               | Webview<br>
