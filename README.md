@@ -58,6 +58,8 @@ Note: superscript v1-7 indicate bootloader version
 | 2023-02-09 | FireOS 7.6.1.3 | [FireTVCubeGen3-7.6.1.3-20230202.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/JX0yJGnRgekSADGa6GTXPdGA2r/FireTVCubeGen3-7.6.1.3-20230202.tar.bz2) | 1271.1MB | 1b4407e7cd07365dc85133a52eb4598e |
 | 2023-03-27 | FireOS 7.6.1.3 | [FireTVCubeGen3-7.6.1.3-20230327.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/cC4bqtXEzSiSsvtzgyEpy0JmRr/FireTVCubeGen3-7.6.1.3-20230327.tar.bz2) | 1271.1MB | 904e65bb86c5ca760f8c0de1989fa7ee |
 | 2024-02-27 | FireOS 7.6.6.9 | [FireTVCubeGen3-7.6.6.9-20240227.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/RpnkwfUczNyL6DVhTDYmuZ24Pe/FireTVCubeGen3-7.6.6.9-20240227.tar.bz2) | 1633.1MB | 03d3cbe61a77fac43c4b8ee9af61572c |
+| 2024-06-21 | FireOS 7.6.7.3 | [FireTVCubeGen3-7.6.7.3-20240621.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/RigacxsrI4L9MqdM9mfMENdZDV/FireTVCubeGen3-7.6.7.3-20240621.tar.bz2) | 3220.5MB | a392614f719adcd6c3fef3e4d936e8ec |
+| 2024-07-24 | FireOS 7.6.7.9 | [FireTVCubeGen3-7.6.7.9-20240724.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/x7oaFVcRFeRir1mdeU6T6SOugT/FireTVCubeGen3-7.6.7.9-20240724.tar.bz2) | 3198.9MB | 327ca8a329c1383ad907aafca6258eea |
 
 Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>. <br>
 FireTVCubeGen3-7.6.1.3-20230202.tar.bz2 = FireTVCubeGen3-7.6.0.7-20230119.tar.bz2 (same file)<br>
