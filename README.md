@@ -27,7 +27,7 @@ For other FireTV device firmware visit the following:<br>
 | 2024-05-20 | FireOS 7.6.7.3 (PS7673/4183) | [update-kindle-gazelle-PS7673_user_4183_0030367831940.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/5/20/e103157d-3b8d-4057-b6ca-00f0a47ea1b4/update-kindle-gazelle-PS7673_user_4183_0030367831940.bin) | 905.7MB | a5d7e418679e3b765fe07b29c82d0f7a |
 | 2024-07-06 | FireOS 7.6.7.9 (PS7679/4292)<sup>v6</sup> | [update-kindle-gazelle-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/8/c0688229-f272-4a4a-a405-83874d096a70/update-kindle-gazelle-PS7679_user_4292_0030971839620.bin) | 908.8MB | da449f79c9e5a34929f347b569c3f29c |
 | 2024-09-01 | FireOS 7.6.8.1 (PS7681/4384)<sup>v7</sup> | [update-kindle-gazelle-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/2/2ea31e67-db2e-4dc2-82c6-a8db5bc981f8/update-kindle-gazelle-PS7681_user_4384_0031106080900.bin) | 910.4MB | 6ae309a66e04cf17b4a03262d10ddf3d |
-| 2024-10-30 | FireOS 7.6.8.5 (PS7685/4486)<sup>v7</sup> | [update-kindle-gazelle-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/e7a14b29-5bea-4fbd-90c3-e049cd3a96c8/update-kindle-gazelle-PS7685_user_4486_0031642977924.bin) | 911.7MB | affb4e3c7f13c32eb966379be407aab6 |
+| 2024-10-30 | FireOS 7.6.8.5 (PS7685/4486) | [update-kindle-gazelle-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/e7a14b29-5bea-4fbd-90c3-e049cd3a96c8/update-kindle-gazelle-PS7685_user_4486_0031642977924.bin) | 911.7MB | affb4e3c7f13c32eb966379be407aab6 |
 
 Note: superscript v1-7 indicate bootloader version
 
