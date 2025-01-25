@@ -28,6 +28,8 @@ For other FireTV device firmware visit the following:<br>
 | 2024-07-06 | FireOS 7.6.7.9 (PS7679/4292)<sup>v6</sup> | [update-kindle-gazelle-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/8/c0688229-f272-4a4a-a405-83874d096a70/update-kindle-gazelle-PS7679_user_4292_0030971839620.bin) | 908.8MB | da449f79c9e5a34929f347b569c3f29c |
 | 2024-09-01 | FireOS 7.6.8.1 (PS7681/4384)<sup>v7</sup> | [update-kindle-gazelle-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/2/2ea31e67-db2e-4dc2-82c6-a8db5bc981f8/update-kindle-gazelle-PS7681_user_4384_0031106080900.bin) | 910.4MB | 6ae309a66e04cf17b4a03262d10ddf3d |
 | 2024-10-30 | FireOS 7.6.8.5 (PS7685/4486) | [update-kindle-gazelle-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/e7a14b29-5bea-4fbd-90c3-e049cd3a96c8/update-kindle-gazelle-PS7685_user_4486_0031642977924.bin) | 911.7MB | affb4e3c7f13c32eb966379be407aab6 |
+| 2024-12-12 | FireOS 7.6.8.5 (PS7685/4490) | [update-kindle-gazelle-PS7685_user_4490_0031642978948.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/12/71dc6993-1c21-4c1c-83ab-d892a59426f4/update-kindle-gazelle-PS7685_user_4490_0031642978948.bin) | 911.9MB | 5d7ab3b47c60ae947f542c1fcdf7419c |
+| 2025-01-10 | FireOS 7.6.8.8 (PS7688/4591)<sup>v8</sup> | [update-kindle-gazelle-PS7688_user_4591_0032112766852.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/11/c97fc75c-11a9-4c50-92c4-0c7d62e96bc0/update-kindle-gazelle-PS7688_user_4591_0032112766852.bin) | 918.9MB | c5273c0309010ee86d7618ac9be4f7ad |
 
 Note: superscript v1-7 indicate bootloader version
 
@@ -51,6 +53,8 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2024-07-06</sub> | <sub>FireOS 7.6.7.3 (PS7673/4183)</sub> | <sub>FireOS 7.6.7.9 (PS7679/4292)</sub> | <sub>[update-gazelle-diff-PS7673.4183N_4183_0030367831940-to-PS7679_user_4292_0030971839620.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/7/6/6eaedbd6-055e-4014-81c1-95c020e8b300/update-gazelle-diff-PS7673.4183N_4183_0030367831940-to-PS7679_user_4292_0030971839620.bin)</sub> | <sub>132.4MB</sub> | <sub>ef5d20e094975f57a916be36d14801d2</sub> |
 | <sub>2024-09-01</sub> | <sub>FireOS 7.6.7.9 (PS7679/4292)</sub> | <sub>FireOS 7.6.8.1 (PS7681/4384)</sub> | <sub>[update-gazelle-diff-PS7679.4292N_4292_0030971839620-to-PS7681_user_4384_0031106080900.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/9/4/11449155-156e-44ed-8bfa-76dac568000e/update-gazelle-diff-PS7679.4292N_4292_0030971839620-to-PS7681_user_4384_0031106080900.bin)</sub> | <sub>150.2MB</sub> | <sub>4656c2d142ec6c442e934619da345ef8</sub> |
 | <sub>2024-10-30</sub> | <sub>FireOS 7.6.8.1 (PS7681/4384)</sub> | <sub>FireOS 7.6.8.5 (PS7685/4486)</sub> | <sub>[update-gazelle-diff-PS7681.4384N_4384_0031106080900-to-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/b4d5a578-4c10-4295-b20b-044148bf2f9d/update-gazelle-diff-PS7681.4384N_4384_0031106080900-to-PS7685_user_4486_0031642977924.bin)</sub> | <sub>183.5MB</sub> | <sub>8a0c92fed2ab2b5414ce69fc9dc3853f</sub> |
+| <sub>2024-12-12</sub> | <sub>FireOS 7.6.8.5 (PS7685/4486)</sub> | <sub>FireOS 7.6.8.5 (PS7685/4490)</sub> | <sub>[1734033784699-update-gazelle-diff-PS7685.4486N_4486_0031642977924-to-PS7685_user_4490_0031642978948.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/12/ea32376f-96e6-4f84-917e-a4744d118603/1734033784699-update-gazelle-diff-PS7685.4486N_4486_0031642977924-to-PS7685_user_4490_0031642978948.bin)</sub> | <sub>62.1MB</sub> | <sub>7f455a1cb6349bc3e926dfa1ab5a72ce</sub> |
+| <sub>2024-01-10</sub> | <sub>FireOS 7.6.8.5 (PS7685/4490)</sub> | <sub>FireOS 7.6.8.8 (PS7688/4591)</sub> | <sub>[update-gazelle-diff-PS7685.4490N_4490_0031642978948-to-PS7688_user_4591_0032112766852.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/10/98ece97e-ac6c-40be-b1ec-760fecc7b839/update-gazelle-diff-PS7685.4490N_4490_0031642978948-to-PS7688_user_4591_0032112766852.bin)</sub> | <sub>175.1MB</sub> | <sub>22d7a582fc8131da350859ca13cbdb61</sub> |
 
 
 ### Source Code
@@ -62,6 +66,9 @@ Note: superscript v1-7 indicate bootloader version
 | 2024-02-27 | FireOS 7.6.6.9 | [FireTVCubeGen3-7.6.6.9-20240227.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/RpnkwfUczNyL6DVhTDYmuZ24Pe/FireTVCubeGen3-7.6.6.9-20240227.tar.bz2) | 1633.1MB | 03d3cbe61a77fac43c4b8ee9af61572c |
 | 2024-06-21 | FireOS 7.6.7.3 | [FireTVCubeGen3-7.6.7.3-20240621.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/RigacxsrI4L9MqdM9mfMENdZDV/FireTVCubeGen3-7.6.7.3-20240621.tar.bz2) | 3220.5MB | a392614f719adcd6c3fef3e4d936e8ec |
 | 2024-07-24 | FireOS 7.6.7.9 | [FireTVCubeGen3-7.6.7.9-20240724.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/x7oaFVcRFeRir1mdeU6T6SOugT/FireTVCubeGen3-7.6.7.9-20240724.tar.bz2) | 3198.9MB | 327ca8a329c1383ad907aafca6258eea |
+| 2024-07-24 | FireOS 7.6.7.9 | [FireTVCubeGen3-7.6.8.5-20250108.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/TFzyeePpMWiioLHqSNT3ZiNUcw/FireTVCubeGen3-7.6.8.5-20250108.tar.bz2) | 3084.5MB | 9750bf856796f1d276fc203dd76c304d |
+
+FireTVCubeGen3-7.6.8.5-20250108.tar.bz2
 
 Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>. <br>
 FireTVCubeGen3-7.6.1.3-20230202.tar.bz2 = FireTVCubeGen3-7.6.0.7-20230119.tar.bz2 (same file)<br>
