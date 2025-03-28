@@ -30,8 +30,10 @@ For other FireTV device firmware visit the following:<br>
 | 2024-10-30 | FireOS 7.6.8.5 (PS7685/4486) | [update-kindle-gazelle-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/e7a14b29-5bea-4fbd-90c3-e049cd3a96c8/update-kindle-gazelle-PS7685_user_4486_0031642977924.bin) | 911.7MB | affb4e3c7f13c32eb966379be407aab6 |
 | 2024-12-12 | FireOS 7.6.8.5 (PS7685/4490) | [update-kindle-gazelle-PS7685_user_4490_0031642978948.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/12/71dc6993-1c21-4c1c-83ab-d892a59426f4/update-kindle-gazelle-PS7685_user_4490_0031642978948.bin) | 911.9MB | 5d7ab3b47c60ae947f542c1fcdf7419c |
 | 2025-01-10 | FireOS 7.6.8.8 (PS7688/4591)<sup>v8</sup> | [update-kindle-gazelle-PS7688_user_4591_0032112766852.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/11/c97fc75c-11a9-4c50-92c4-0c7d62e96bc0/update-kindle-gazelle-PS7688_user_4591_0032112766852.bin) | 918.9MB | c5273c0309010ee86d7618ac9be4f7ad |
+| 2025-03-04 | FireOS 7.6.9.0 (PS7690/4714) | [update-kindle-gazelle-PS7690_user_4714_0032381233796.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/5/47089ed5-a3f4-4a35-9cc4-426de4fb03c4/update-kindle-gazelle-PS7690_user_4714_0032381233796.bin) | 907.5MB | 036d97e774c241b18ebc0a0ec5e6772c |
+| 2025-03-19 | FireOS 7.6.9.0 (PS7690/4716) | [update-kindle-gazelle-PS7690_user_4716_0032381234308.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/19/db9095b8-4145-41de-b87a-80c0366a1f94/update-kindle-gazelle-PS7690_user_4716_0032381234308.bin) | 907.6MB | ef4868d81d25fd6bd9482b748454ad54 |
 
-Note: superscript v1-7 indicate bootloader version
+Note: superscript v1-8 indicate bootloader version
 
 
 ### Differential Firmware Update
@@ -55,6 +57,10 @@ Note: superscript v1-7 indicate bootloader version
 | <sub>2024-10-30</sub> | <sub>FireOS 7.6.8.1 (PS7681/4384)</sub> | <sub>FireOS 7.6.8.5 (PS7685/4486)</sub> | <sub>[update-gazelle-diff-PS7681.4384N_4384_0031106080900-to-PS7685_user_4486_0031642977924.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/10/30/b4d5a578-4c10-4295-b20b-044148bf2f9d/update-gazelle-diff-PS7681.4384N_4384_0031106080900-to-PS7685_user_4486_0031642977924.bin)</sub> | <sub>183.5MB</sub> | <sub>8a0c92fed2ab2b5414ce69fc9dc3853f</sub> |
 | <sub>2024-12-12</sub> | <sub>FireOS 7.6.8.5 (PS7685/4486)</sub> | <sub>FireOS 7.6.8.5 (PS7685/4490)</sub> | <sub>[1734033784699-update-gazelle-diff-PS7685.4486N_4486_0031642977924-to-PS7685_user_4490_0031642978948.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2024/12/12/ea32376f-96e6-4f84-917e-a4744d118603/1734033784699-update-gazelle-diff-PS7685.4486N_4486_0031642977924-to-PS7685_user_4490_0031642978948.bin)</sub> | <sub>62.1MB</sub> | <sub>7f455a1cb6349bc3e926dfa1ab5a72ce</sub> |
 | <sub>2024-01-10</sub> | <sub>FireOS 7.6.8.5 (PS7685/4490)</sub> | <sub>FireOS 7.6.8.8 (PS7688/4591)</sub> | <sub>[update-gazelle-diff-PS7685.4490N_4490_0031642978948-to-PS7688_user_4591_0032112766852.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/1/10/98ece97e-ac6c-40be-b1ec-760fecc7b839/update-gazelle-diff-PS7685.4490N_4490_0031642978948-to-PS7688_user_4591_0032112766852.bin)</sub> | <sub>175.1MB</sub> | <sub>22d7a582fc8131da350859ca13cbdb61</sub> |
+| <sub>2025-03-06</sub> | <sub>FireOS 7.6.8.8 (PS7688/4591)</sub> | <sub>FireOS 7.6.9.0 (PS7690/4714)</sub> | <sub>[update-gazelle-diff-PS7688.4591N_4591_0032112766852-to-PS7690_user_4714_0032381233796.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/6/88f8e7d8-4cbb-4a48-abeb-2564833fd0ea/update-gazelle-diff-PS7688.4591N_4591_0032112766852-to-PS7690_user_4714_0032381233796.bin)</sub> | <sub>148.2MB</sub> | <sub>9c1b9cfd112fb0631e6f6772798b5551</sub> |
+| <sub>2025-03-20</sub> | <sub>FireOS 7.6.9.0 (PS7690/4714)</sub> | <sub>FireOS 7.6.9.0 (PS7690/4716)</sub> | <sub>[update-gazelle-diff-PS7299.3051N_3051_0024596179844-to-PS7690_user_4716_0032381234308.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/3/20/75346532-7fb6-4345-9d34-8c0be975745c/update-gazelle-diff-PS7690.4714N_4714_0032381233796-to-PS7690_user_4716_0032381234308.bin)</sub> | <sub>53.8MB</sub> | <sub>eaed19d0430c4cd8e11f51d917a6d6c9</sub> |
+
+
 
 
 ### Source Code
