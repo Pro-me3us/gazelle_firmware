@@ -37,9 +37,10 @@ For other FireTV device firmware visit the following:<br>
 | 2025-05-30 | FireOS 7.6.9.9 (PS7699/4894)<sup>v9</sup> | [update-kindle-gazelle-PS7699_user_4894_0033052368516.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/5/30/655f2aea-3039-4862-b478-c8d3a8af444e/update-kindle-gazelle-PS7699_user_4894_0033052368516.bin) | 904.6MB | cae4c03fb8727b4dbf3a2c883787511e |
 | 2025-06-20 | FireOS 7.6.9.9 (PS7699/4896) | [update-kindle-gazelle-PS7699_user_4896_0033052369028.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/22/a62219ab-60e0-49eb-9bb3-932cc74c90fe/update-kindle-gazelle-PS7699_user_4896_0033052369028.bin) | 904.7MB | 7c21c8d4e6614bc2c5c62673eead33c4 |
 | 2025-07-16 | FireOS 7.7.0.2 (PS7702/4965) | [update-kindle-gazelle-PS7702_user_4965_0033455039876.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/17/5a8c8d3e-b480-4443-8f32-b287cd31b254/update-kindle-gazelle-PS7702_user_4965_0033455039876.bin) | 908.2MB | e110a7bdf09ca5dfd926e33d892f780b |
+| 2025-08-16 | FireOS 7.7.0.4 (PS7704/5024)<sup>v10</sup> | [update-kindle-gazelle-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/18/8b41fe94-e858-4f2c-9f02-0bdd7daf6841/update-kindle-gazelle-PS7704_user_5024_0033723490436.bin) | 906.0MB  | b09cce3b6885304b321381f54c559f03 |
 
 
-Note: superscript v1-9 indicate bootloader version
+Note: superscript v1-10 indicate bootloader version
 
 
 ### Differential Firmware Update
@@ -69,7 +70,7 @@ Note: superscript v1-9 indicate bootloader version
 | <sub>2025-05-09</sub> | <sub>FireOS 7.6.9.9 (PS7699/4894)</sub> | <sub>FireOS 7.6.9.6 (PS7696/5229)</sub> | <sub>[update-gazelle-diff-PS7696.5226N_5226_0032649800324-to-PS7696_user_5229_0032649801092.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/5/9/103a683c-bf70-42d8-b2cf-7201eba9d56a/update-gazelle-diff-PS7696.5226N_5226_0032649800324-to-PS7696_user_5229_0032649801092.bin)</sub> | <sub>75.3MB</sub> | <sub>21e1c920652588e44998c9bcf5a2ff1c</sub> |
 | <sub>2025-06-20</sub> | <sub>FireOS 7.6.9.9 (PS7699/4894)</sub> | <sub>FireOS 7.6.9.9 (PS7699/4896)</sub> | <sub>[update-gazelle-diff-PS7699.4894N_4894_0033052368516-to-PS7699_user_4896_0033052369028.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/6/23/32338d1a-4c26-4820-882d-eefefbe2003a/update-gazelle-diff-PS7699.4894N_4894_0033052368516-to-PS7699_user_4896_0033052369028.bin)</sub> | <sub>61.2MB</sub> | <sub>95c155dc8df1e7c5b1485916dd62370b</sub> |
 | <sub>2025-07-18</sub> | <sub>FireOS 7.6.9.9 (PS7699/4896)</sub> | <sub>FireOS 7.7.0.2 (PS7702/4965)</sub> | <sub>[update-gazelle-diff-PS7699.4896N_4896_0033052369028-to-PS7702_user_4965_0033455039876.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/7/18/b292ad3d-05a9-4ef4-b79c-1feb2217d7ef/update-gazelle-diff-PS7699.4896N_4896_0033052369028-to-PS7702_user_4965_0033455039876.bin)</sub> | <sub>176.7MB</sub> | <sub>51da108b1e4272aac00be4db915d39cc</sub> |
-
+| <sub>2025-08-16</sub> | <sub>FireOS 7.7.0.2 (PS7702/4965)</sub> | <sub>FireOS 7.7.0.4 (PS7704/5024)</sub> | <sub>[update-gazelle-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2025/8/16/d4ae5618-2927-46e2-87a8-7f8afc725515/update-gazelle-diff-PS7702.4965N_4965_0033455039876-to-PS7704_user_5024_0033723490436.bin)</sub> | <sub>146.1MB</sub> | <sub>e6a0abc656a4778b04fe08dc0a9d5f25</sub> |
 
 
 ### Source Code
