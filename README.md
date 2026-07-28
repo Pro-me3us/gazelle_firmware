@@ -47,7 +47,7 @@ For other FireTV device firmware visit the following:<br>
 | 2026-05-17 | FireOS 7.7.1.4 (PS7714/5503) | [update-kindle-gazelle-PS7714_user_5503_0035602661252.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/5/18/455d776f-da64-48ac-9916-9f027077bd03/update-kindle-gazelle-PS7714_user_5503_0035602661252.bin) | 881.0MB | e2d8662d7a3cbbd95c1f0df3e2622d4f |
 | 2026-06-15 | FireOS 7.7.1.4 (PS7714/5506) | [update-kindle-gazelle-PS7714_user_5506_0035602662020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/15/872b31ac-4469-4d71-96b1-e14acf5080e8/update-kindle-gazelle-PS7714_user_5506_0035602662020.bin) | 881.0MB | 9426da59562f9ae04a533a7db5eeba50 |
 | 2026-06-21 | FireOS 7.7.1.4 (PS7714/5507) | [update-kindle-gazelle-PS7714_user_5507_0035602662276.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/21/0a925e83-daaa-4e6a-8d24-52083347d997/update-kindle-gazelle-PS7714_user_5507_0035602662276.bin) | 880.9MB | 22d64e8279e5f4f54079eb9036311a9d |
-
+| 2026-07-04 | FireOS 7.7.1.5 (PS7715/5585) | [update-kindle-gazelle-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/6/5edc7305-d9d1-49d4-ae26-f8db8ea981fd/update-kindle-gazelle-PS7715_user_5585_0035736899972.bin) | 873.7MB | d0c0b078fbfbdbdfe372994a10e81975 |
 
 Note: superscript v1-10 indicate bootloader version
 
@@ -89,6 +89,10 @@ Note: superscript v1-10 indicate bootloader version
 | <sub>2026-05-19</sub> | <sub>FireOS 7.7.1.3 (PS7713/5443)</sub> | <sub>FireOS 7.7.1.4 (PS7714/5403)</sub> | <sub>[update-gazelle-diff-PS7713.5443N_5443_0035334210436-to-PS7714_user_5503_0035602661252.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/5/19/c1e6533a-f3eb-4e2d-8526-7fd821a56610/update-gazelle-diff-PS7713.5443N_5443_0035334210436-to-PS7714_user_5503_0035602661252.bin)</sub> | <sub>172.0MB</sub> | <sub>6842c3dad90123fe4ce68155c1b9f9b2</sub> |
 | <sub>2026-06-16</sub> | <sub>FireOS 7.7.1.4 (PS7714/5403)</sub> | <sub>FireOS 7.7.1.4 (PS7714/5406)</sub> | <sub>[update-gazelle-diff-PS7714.5503N_5503_0035602661252-to-PS7714_user_5506_0035602662020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/16/fb832d0a-285c-4089-b777-9ff050cdcb88/update-gazelle-diff-PS7714.5503N_5503_0035602661252-to-PS7714_user_5506_0035602662020.bin)</sub> | <sub>56.1MB</sub> | <sub>a623711e992c9caf5a10e993dc61ce23</sub> |
 | <sub>2026-06-22</sub> | <sub>FireOS 7.7.1.4 (PS7714/5406)</sub> | <sub>FireOS 7.7.1.4 (PS7714/5407)</sub> | <sub>[update-gazelle-diff-PS7714.5503N_5503_0035602661252-to-PS7714_user_5506_0035602662020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/16/fb832d0a-285c-4089-b777-9ff050cdcb88/update-gazelle-diff-PS7714.5506N_5506_0035602662020-to-PS7714_user_5507_0035602662276.bin)</sub> | <sub>61.9MB</sub> | <sub>12b9fcad3ae6b8e578cdb0b61d68321c</sub> |
+| <sub>2026-07-08</sub> | <sub>FireOS 7.7.1.4 (PS7714/5407)</sub> | <sub>FireOS 7.7.1.5 (PS7715/5585)</sub> | <sub>[update-gazelle-diff-PS7714.5507N_5507_0035602662276-to-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/8/22f8627a-fbf7-4d9b-93f1-0f35e6c168f4/update-gazelle-diff-PS7714.5507N_5507_0035602662276-to-PS7715_user_5585_0035736899972.bin)</sub> | <sub>182.2MB</sub> | <sub>d3d650d0016fc9434e0f572284221257</sub> |
+
+
+
 
 
 ### Source Code
@@ -102,6 +106,8 @@ Note: superscript v1-10 indicate bootloader version
 | 2024-07-24 | FireOS 7.6.7.9 | [FireTVCubeGen3-7.6.7.9-20240724.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/x7oaFVcRFeRir1mdeU6T6SOugT/FireTVCubeGen3-7.6.7.9-20240724.tar.bz2) | 3198.9MB | 327ca8a329c1383ad907aafca6258eea |
 | 2025-01-08 | FireOS 7.6.8.5 | [FireTVCubeGen3-7.6.8.5-20250108.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/TFzyeePpMWiioLHqSNT3ZiNUcw/FireTVCubeGen3-7.6.8.5-20250108.tar.bz2) | 3084.5MB | 9750bf856796f1d276fc203dd76c304d |
 | 2025-03-13 | FireOS 7.6.9.0 | [FireTVCubeGen3-7.6.9.0-20250313.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/XtXcnpaBk7SkdlgoFIRlZlhajH/FireTVCubeGen3-7.6.9.0-20250313.tar.bz2) | 3477.5MB | 0b5047742a6743d94296b2dbcf282701 |
+| 2026-03-30 | FireOS 7.7.1.3 | [FireTVCubeGen3-7.7.1.3-20260330.tar.bz2](https://fireos-tv-src.s3.amazonaws.com/hJlQmDyHFLq09JuYKZv4G3j8JG/FireTVCubeGen3-7.7.1.3-20260330.tar.bz2) | 2054.7MB | 5ae79d022a343e02236e3d4ebc312a42 |
+
 
 Note: There are a couple mistakes on Amazon's <a href="https://www.amazon.com/gp/help/customer/display.html?nodeId=201452680">source code page</a>. <br>
 FireTVCubeGen3-7.6.1.3-20230202.tar.bz2 = FireTVCubeGen3-7.6.0.7-20230119.tar.bz2 (same file)<br>
