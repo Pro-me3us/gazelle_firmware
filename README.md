@@ -48,6 +48,7 @@ For other FireTV device firmware visit the following:<br>
 | 2026-06-15 | FireOS 7.7.1.4 (PS7714/5506) | [update-kindle-gazelle-PS7714_user_5506_0035602662020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/15/872b31ac-4469-4d71-96b1-e14acf5080e8/update-kindle-gazelle-PS7714_user_5506_0035602662020.bin) | 881.0MB | 9426da59562f9ae04a533a7db5eeba50 |
 | 2026-06-21 | FireOS 7.7.1.4 (PS7714/5507) | [update-kindle-gazelle-PS7714_user_5507_0035602662276.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/21/0a925e83-daaa-4e6a-8d24-52083347d997/update-kindle-gazelle-PS7714_user_5507_0035602662276.bin) | 880.9MB | 22d64e8279e5f4f54079eb9036311a9d |
 | 2026-07-04 | FireOS 7.7.1.5 (PS7715/5585) | [update-kindle-gazelle-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/6/5edc7305-d9d1-49d4-ae26-f8db8ea981fd/update-kindle-gazelle-PS7715_user_5585_0035736899972.bin) | 873.7MB | d0c0b078fbfbdbdfe372994a10e81975 |
+| 2026-08-17 | FireOS 7.7.1.6 (PS7716.5665) | [update-kindle-gazelle-PS7716_user_5665_0036005355908.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/8/17/f90bb0fa-5ab3-437f-96ea-b0a4b8651fd0/update-kindle-gazelle-PS7716_user_5665_0036005355908.bin) | 882.5MB | ac597fd0e642bab11ca2f8b9080b4529 |
 
 Note: superscript v1-10 indicate bootloader version
 
@@ -90,7 +91,7 @@ Note: superscript v1-10 indicate bootloader version
 | <sub>2026-06-16</sub> | <sub>FireOS 7.7.1.4 (PS7714/5403)</sub> | <sub>FireOS 7.7.1.4 (PS7714/5406)</sub> | <sub>[update-gazelle-diff-PS7714.5503N_5503_0035602661252-to-PS7714_user_5506_0035602662020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/16/fb832d0a-285c-4089-b777-9ff050cdcb88/update-gazelle-diff-PS7714.5503N_5503_0035602661252-to-PS7714_user_5506_0035602662020.bin)</sub> | <sub>56.1MB</sub> | <sub>a623711e992c9caf5a10e993dc61ce23</sub> |
 | <sub>2026-06-22</sub> | <sub>FireOS 7.7.1.4 (PS7714/5406)</sub> | <sub>FireOS 7.7.1.4 (PS7714/5407)</sub> | <sub>[update-gazelle-diff-PS7714.5503N_5503_0035602661252-to-PS7714_user_5506_0035602662020.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/6/16/fb832d0a-285c-4089-b777-9ff050cdcb88/update-gazelle-diff-PS7714.5506N_5506_0035602662020-to-PS7714_user_5507_0035602662276.bin)</sub> | <sub>61.9MB</sub> | <sub>12b9fcad3ae6b8e578cdb0b61d68321c</sub> |
 | <sub>2026-07-08</sub> | <sub>FireOS 7.7.1.4 (PS7714/5407)</sub> | <sub>FireOS 7.7.1.5 (PS7715/5585)</sub> | <sub>[update-gazelle-diff-PS7714.5507N_5507_0035602662276-to-PS7715_user_5585_0035736899972.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/7/8/22f8627a-fbf7-4d9b-93f1-0f35e6c168f4/update-gazelle-diff-PS7714.5507N_5507_0035602662276-to-PS7715_user_5585_0035736899972.bin)</sub> | <sub>182.2MB</sub> | <sub>d3d650d0016fc9434e0f572284221257</sub> |
-
+| <sub>2026-08-15</sub> | <sub>FireOS 7.7.1.5 (PS7715/5585)</sub> | <sub>FireOS 7.7.1.6 (PS7716/5665)</sub> | <sub>[update-gazelle-diff-PS7715.5585N_5585_0035736899972-to-PS7716_user_5665_0036005355908.bin](https://d1s31zyz7dcc2d.cloudfront.prod.ota-cloudfront.net/2026/8/18/0d608bcf-2b85-4cda-adb1-9a17cd8b8fac/update-gazelle-diff-PS7715.5585N_5585_0035736899972-to-PS7716_user_5665_0036005355908.bin)</sub> | <sub>173.6MB</sub> | <sub>632e6596cf51722e8b087347e0dcf6bc</sub> |
 
 
 
